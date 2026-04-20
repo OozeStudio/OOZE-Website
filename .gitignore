@@ -1,0 +1,11 @@
+node_modules/
+temporary screenshots/
+CLAUDE.md
+.claude/
+screenshot.mjs
+serve.mjs
+package.json
+package-lock.json
+landonorris.com_.png
+ooze-design-ref.html
+*.webp
